@@ -1,0 +1,21 @@
+.teamsParent {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.iconText {
+  text-align: center;
+}
+
+.avatarParent {
+  display: inline-grid;
+  padding: 5rem;
+}
+
+.avatarStyle {
+  width: 9rem;
+  height: 9rem;
+  margin: 1rem 1rem 1rem 1rem;
+  cursor: pointer;
+}

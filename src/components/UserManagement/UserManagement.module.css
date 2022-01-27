@@ -1,0 +1,17 @@
+.userManageDiv {
+  width: 90%;
+  padding: 1rem 5rem 1rem 5rem;
+}
+
+.userManageTitle {
+  text-align: center;
+  padding: 1rem 1rem;
+}
+
+.addUserButtonDiv {
+  padding-right: 5rem;
+}
+
+.addUserButton {
+  float: right;
+}

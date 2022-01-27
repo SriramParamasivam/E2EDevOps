@@ -1,0 +1,30 @@
+.columns {
+  float: left;
+  width: 13%;
+  padding: 3rem 0.5rem 3rem 0.5rem;
+}
+
+.price {
+  list-style-type: none;
+  border: 1px solid var(--sapContent_Placeholderloading_Background);
+  margin: 0;
+  padding: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.price .header {
+  background-color: var(--sapIndicationColor_4_Active_Background);
+  color: var(--sapIndicationColor_3_TextColor);
+  font-size: 20px;
+}
+
+.price li {
+  border-bottom: 1px solid var(--sapContent_Placeholderloading_Background);
+  text-align: center;
+  color: var(--sapTextColor);
+}
+
+.price .grey {
+  font-size: 20px;
+}

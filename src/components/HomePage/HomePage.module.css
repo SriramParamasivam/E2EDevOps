@@ -1,0 +1,12 @@
+.homePageTileParent {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.homePageTile {
+  display: inline-grid;
+  margin: 1rem;
+  width: 50rem;
+  border: 2px solid var(--sapChart_Neutral);
+}

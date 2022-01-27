@@ -1,0 +1,19 @@
+.formStyle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.formItem {
+  padding: 0.5rem 1rem;
+}
+
+.sideBarButton {
+  width: 100%;
+  margin: 0.25rem;
+}
+
+.parentsPadding {
+  padding: 0.5rem;
+  background: var(--sapBaseColor);
+}
